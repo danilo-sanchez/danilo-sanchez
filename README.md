@@ -1,8 +1,8 @@
 ### About
 
-Danilo Sanchez
-Brazilian
-Learning to code in HTML, CSS and Javascript
+- Danilo Sanchez
+- Brazilian
+- Learning to code in HTML, CSS and Javascript
 
 ### Stats
 
